@@ -1,0 +1,16 @@
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\bin\Debug\RandomString.exe.config
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\bin\Debug\RandomString.exe
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\bin\Debug\RandomString.pdb
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString.csprojResolveAssemblyReference.cache
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\MainWindow.baml
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\MainWindow.g.cs
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\App.g.cs
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString_MarkupCompile.cache
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString.g.resources
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString.Properties.Resources.resources
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString.csproj.GenerateResource.Cache
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString.exe
+c:\users\aliaksei_kazlou\documents\visual studio 2012\Projects\RandomString\RandomString\obj\Debug\RandomString.pdb
+C:\Users\Aliaksei_Kazlou\Documents\RandomStrings\RandomString\RandomString\bin\Debug\RandomString.exe.config
+C:\Users\Aliaksei_Kazlou\Documents\RandomStrings\RandomString\RandomString\obj\Debug\RandomString.exe
+C:\Users\Aliaksei_Kazlou\Documents\RandomStrings\RandomString\RandomString\obj\Debug\RandomString.pdb
